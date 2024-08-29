@@ -91,5 +91,3 @@ Top 10 ligands saved to path/to/your/output_directory/top_10_ligands.csv
 ## References
 
 For more information on DynamicBind, please refer to the [DynamicBind GitHub page](https://github.com/luwei0917/DynamicBind).
-
-```
