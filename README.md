@@ -5,6 +5,7 @@
 ## Features
 
 - **Automated Docking**: Performs docking simulations for a set of ligands against a specified protein using DynamicBind.
+- **Progress Tracking**: Shows real-time progress of the virtual screening process, indicating the percentage of ligands docked and completed. This feature provides users with an overview of the screening status during execution.
 - **Result Aggregation**: Collects and combines affinity predictions from multiple docking runs into a single, easy-to-analyze CSV file.
 - **Top Ligand Selection**: Normalizes affinity and LDDT scores, ranks ligands, and selects the top candidates based on combined scores.
 
